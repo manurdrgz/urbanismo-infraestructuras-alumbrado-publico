@@ -1,6 +1,6 @@
 # FAROLAS EN CÁCERES
 
-Es un proyecto desarrollado en el ODD Madrid del 2016.
+Es un proyecto desarrollado durante el Open Data Day en el Mediala Prado en Madrid.
 
 ## Objetivos
 
@@ -8,12 +8,17 @@ Establecer un formato de datos para que las instituciones públicas publiquen su
 
 ## Mapa de recursos
 
+### Creación de Mapas.
+
+Mapas creados con [Carto DB](http://www.cartodb.com).
 
 
 
-### Thanks to the developers of One Page Wonder template
+### Template para la Web.
 
-#### [Start Bootstrap](http://startbootstrap.com/) - [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/)
+#### Thanks to the developers of One Page Wonder template
+
+##### [Start Bootstrap](http://startbootstrap.com/) - [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/)
 
 [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/) is a basic one page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
