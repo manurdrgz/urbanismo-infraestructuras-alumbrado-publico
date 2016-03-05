@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('https://github.com/manurdrgz/urbanismo-infraestructuras-alumbrado-publico/blob/gh-pages/site_farolas_caceres/images/PlazaMayorCaceres.jpg') no-repeat center center scroll;
+    background: url('https://raw.githubusercontent.com/manurdrgz/urbanismo-infraestructuras-alumbrado-publico/master/site_farolas_caceres/images/PlazaMayorCaceres.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
